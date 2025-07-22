@@ -15,7 +15,7 @@ public class Main {
         Student student = new Student();
         student.name = "alph";
         student.rollNumber = 13;
-        student.grade = 'A+';
+        student.grade = 'A';
         student.displayDetails();
     }
 }     
